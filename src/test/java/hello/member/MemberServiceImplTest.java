@@ -19,7 +19,7 @@ class MemberServiceImplTest
         memberService.join(member);
         Member findMember = memberService.findMember(1L);
 
-        //then
+        //thenn
         Assertions.assertEquals(member,findMember);
     }
 
