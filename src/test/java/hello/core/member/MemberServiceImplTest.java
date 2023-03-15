@@ -1,6 +1,4 @@
-package hello.member;
-
-import static org.junit.jupiter.api.Assertions.*;
+package hello.core.member;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
